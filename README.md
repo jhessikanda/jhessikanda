@@ -60,7 +60,7 @@
 
 <br />
 
-<img alt="Jhessica's Top Languages" src="https://github-readme-stats-jhessicas-projects.vercel.app/api/top-langs/?username=jhessikanda&theme=tokyonight&hide=CSS,HTML,Dockerfile"/>
+<img alt="Jhessica's Top Languages" src="https://github-readme-stats-jhessicas-projects.vercel.app/api/top-langs/?username=jhessikanda&theme=tokyonight&hide=CSS,HTML,Dockerfile&layout=compact"/>
 
 <br />
 
