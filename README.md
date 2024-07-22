@@ -1,10 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jhessikanda.jhessikanda"/>
+<h1>Hi, there! 👋 </h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;Welcome&center=true&size=20">
-  </a>
-</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jhessikanda.jhessikanda"/>
 
 <br />
 
